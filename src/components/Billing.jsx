@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Billing() {
+const Billing = () => {
   return (
     <div>Billing</div>
   )
